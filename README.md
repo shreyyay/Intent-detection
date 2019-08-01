@@ -12,7 +12,3 @@ In the model we have used 2 Dense layers, the last Dense layer is the output of 
 When we evaluate our model in the given test set we find 86.79% accuracy.
 
 we can improve the accuracy of our model by concatenating ELMO embedding with diffrent word embedding like word2vec and glove.
-
-Also we can use residual Bi-lstm connection in our model.
-
-We can also add one or more convolution layer .
